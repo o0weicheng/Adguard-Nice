@@ -1,6 +1,7 @@
 !
 ! Title: Nice Filter
 ! Description: -
+! Version: 1.0.1
 ! Homepage: https://github.com/zerojilo/Adguard-Custom-Filter
 ! License: https://github.com/zerojilo/Adguard-Custom-Filter/blob/main/LICENSE
 !
