@@ -1,5 +1,11 @@
+!
+! Title: Nice Filter
+! Description: -
 ! Homepage: https://github.com/zerojilo/Adguard-Custom-Filter
 ! License: https://github.com/zerojilo/Adguard-Custom-Filter/blob/main/LICENSE
+!
+! ins 图片下载解锁
+instagram.com#$#._aagw{z-index:-999!important;}
 !
 ! 自定美化下网页样式
 twitter.com#$#*,*::before,*::after{border-radius: 6px!important;}
