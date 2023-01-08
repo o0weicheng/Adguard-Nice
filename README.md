@@ -7,4 +7,4 @@
   - 只想用这个规则的话，自己在用户过滤器里添加下面规则
   - `instagram.com#$#._aagw{z-index:-999!important;}`
 
-订阅地址：https://raw.githubusercontent.com/zerojilo/Adguard-Nice/main/nice.txt
+订阅地址：https://raw.githubusercontent.com/zerojilo/Adguard-Custom-Filter/main/nice.txt
